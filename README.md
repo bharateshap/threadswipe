@@ -54,7 +54,7 @@ PREREQUISITES:
 INSTALLATION & SETUP:
 
 1. Clone the Repository:
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/bharateshap/threadswipe.git
    cd your-repo-name
 
 2. Backend Setup:
